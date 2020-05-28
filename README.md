@@ -37,12 +37,16 @@ The models Naive Bayes, Random Forest Classifier and K-Nearest Neighbors are eva
 
 ### First Iteration
 Gaussian Naive Bayes - log loss -> 2.6, Accuracy -> 0.10
+
 Random Forest Classifier - log loss -> 4.8, Accuracy -> 0.31
+
 K-Nearest Neighbors - log loss -> 18.7, Accuracy -> 0.18
 
 ### Second Iteration
 Gaussian Naive Bayes - log loss -> 3.55, Accuracy -> 0.42
+
 Random Forest Classifier - log loss -> .15, Accuracy -> 0.98
+
 K-Nearest Neighbors - log loss -> 3.17, Accuracy -> 0.65
 
 Comparing the first and second iteration can conclude that Random Forest Classifier in second Iteration performed statble and effective classification model.
