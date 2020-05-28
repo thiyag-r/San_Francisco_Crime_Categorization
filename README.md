@@ -9,7 +9,7 @@ Two datasets (train.csv and test.csv) are provided by Kaggle, but only the train
 Data Schema is laid out below:
 |Columns|Type|
 |-------|----|
-|Dates  | |
+|Dates  | datetime64|
 |Category|Object|
 |Descript|Object|
 |DayOfWeek|Object|
