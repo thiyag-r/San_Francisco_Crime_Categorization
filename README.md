@@ -49,4 +49,4 @@ Random Forest Classifier - log loss -> .15, Accuracy -> 0.98
 
 K-Nearest Neighbors - log loss -> 3.17, Accuracy -> 0.65
 
-Comparing the first and second iteration can conclude that Random Forest Classifier in second Iteration performed statble and effective classification model.
+Comparing the first and second iteration can conclude that Random Forest Classifier in second Iteration performed stable and effective classification model.
